@@ -3,6 +3,9 @@ title: On Virtue.
 order: 7
 byline: Roma
 ---
+## Critical Introduction to "On Virtue"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+
 ## On Virtue.
 O Thou bright jewel in my aim I strive To comprehend thee.  Thine own words declare Wisdom is higher than a fool can reach. I cease to wonder, and no more attempt Thine height t’ explore, or fathom thy profound. But, O my soul, sink not into despair, Virtue is near thee, and with gentle hand Would now embrace thee, hovers o’er thine head. Fain would the heav’n-born soul with her converse, Then seek, then court her for her promis’d bliss.
 
