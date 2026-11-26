@@ -61,3 +61,5 @@ Eighteenth-Century Britain." The Historical Journal, vol. 67, no. 3, 2024, pp. 4
 &nbsp;“Chastity, N., Sense 4.” Oxford English Dictionary, Oxford UP, September 2026, https://doi.org/10.1093/OED/1041429449.
 
 &nbsp;“Appellation, N., Sense I.1.a.” Oxford English Dictionary, Oxford UP, September 2026, https://doi.org/10.1093/OED/9380751878.
+
+&nbsp;“Cherub, N., Sense 1.b.” Oxford English Dictionary, Oxford UP, June 2026, https://doi.org/10.1093/OED/3571425821.
