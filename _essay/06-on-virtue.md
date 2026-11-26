@@ -50,6 +50,8 @@ byline: Roma
 
 ---
 Works Cited:
-Harvey, Karen, and Emily Vine. "Prayer for Family and Friends: The Body and Religion in 
+&nbsp;Harvey, Karen, and Emily Vine. "Prayer for Family and Friends: The Body and Religion in 
 Eighteenth-Century Britain." The Historical Journal, vol. 67, no. 3, 2024, pp. 406-429. ProQuest, https://ezproxy.kpu.ca:2443/login?url=https://www.proquest.com/scholarly-journals/prayer-family-friends-body-religion-eighteenth/docview/3051261861/se-2, doi:https://doi.org/10.1017/S0018246X24000086.
-Micheletti, Steven J., Kasia Bryc, et al. “Genetic Consequences of the Transatlantic Slave Trade in the Americas.” The American Journal of Human Genetics, vol. 107, no. 2, 6 Aug. 2020, pp. 265–277. https://doi.org/10.1016/j.ajhg.2020.06.012
+
+
+&nbsp;Micheletti, Steven J., Kasia Bryc, et al. “Genetic Consequences of the Transatlantic Slave Trade in the Americas.” The American Journal of Human Genetics, vol. 107, no. 2, 6 Aug. 2020, pp. 265–277. https://doi.org/10.1016/j.ajhg.2020.06.012
