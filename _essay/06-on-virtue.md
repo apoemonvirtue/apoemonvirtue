@@ -34,7 +34,7 @@ byline: Roma
 <br>Greatness, or Goodness, say what I shall call thee,
 <br>To give me an higher appellation still, {% include essay/feature/aside.html text="'appellation' means to appeal to a higher court against an inferior one" %}
 <br>Teach me a better strain, a nobler lay,
-<br>O thou, enthron’d with Cherubs in the realms of day!
+<br>O thou, enthron’d with Cherubs in the realms of day! {% include essay/feature/aside.html text="'cherubs' means a "fullness of knowledge"" %}
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_12;pwp_13" %}
