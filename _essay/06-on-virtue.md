@@ -25,14 +25,14 @@ byline: Roma
 <br>Then seek, then court her for her promis’d bliss.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auspicious queen, thine heav’nly pinions spread, {% include essay/feature/aside.html text="'auspicious' means predicting good fortune or success" %}
-<br>And lead celestial Chastity along; 
+<br>And lead celestial Chastity along; {% include essay/feature/aside.html text="'chastity' means moral purity or self restraint from sins" %}
 <br>Lo! now her sacred retinue descends, 
 <br>Array’d in glory from the orbs above. 
 <br>Attend me, Virtue, thro’ my youthful years! 
 <br>O leave me not to the false joys of time! 
 <br>But guide my steps to endless life and bliss. 
 <br>Greatness, or Goodness, say what I shall call thee,
-<br>To give me an higher appellation still,
+<br>To give me an higher appellation still, {% include essay/feature/aside.html text="'appellation' means to appeal to a higher court against an inferior one" %}
 <br>Teach me a better strain, a nobler lay,
 <br>O thou, enthron’d with Cherubs in the realms of day!
 
@@ -55,3 +55,9 @@ Eighteenth-Century Britain." The Historical Journal, vol. 67, no. 3, 2024, pp. 4
 
 
 &nbsp;Micheletti, Steven J., Kasia Bryc, et al. “Genetic Consequences of the Transatlantic Slave Trade in the Americas.” The American Journal of Human Genetics, vol. 107, no. 2, 6 Aug. 2020, pp. 265–277. https://doi.org/10.1016/j.ajhg.2020.06.012
+
+&nbsp;“Auspicious, Adj., Sense 1.b.” Oxford English Dictionary, Oxford UP, June 2026, https://doi.org/10.1093/OED/1139986232.
+
+&nbsp;“Chastity, N., Sense 4.” Oxford English Dictionary, Oxford UP, September 2026, https://doi.org/10.1093/OED/1041429449.
+
+&nbsp;“Appellation, N., Sense I.1.a.” Oxford English Dictionary, Oxford UP, September 2026, https://doi.org/10.1093/OED/9380751878.
