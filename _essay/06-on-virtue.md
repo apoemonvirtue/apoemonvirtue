@@ -24,7 +24,7 @@ byline: Roma
 <br>Fain would the heav’n-born soul with her converse, 
 <br>Then seek, then court her for her promis’d bliss.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auspicious queen, thine heav’nly pinions spread, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auspicious queen, thine heav’nly pinions spread, {% include essay/feature/aside.html text="'auspicious' means predicting good fortune or success" %}
 <br>And lead celestial Chastity along; 
 <br>Lo! now her sacred retinue descends, 
 <br>Array’d in glory from the orbs above. 
